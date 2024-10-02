@@ -2,7 +2,7 @@ name: Build and Deploy
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:  # Example adapted from https://docs.github.com/en/actions/quickstart
